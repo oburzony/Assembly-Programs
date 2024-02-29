@@ -1,0 +1,14 @@
+addition.o
+addition
+subtraction.o
+subtraction
+fpu.o
+fpu
+hello.o
+hello
+compareText.o
+compareText
+writeText.o
+writeText
+sisdAndSimd.o
+sisdAndSimd
